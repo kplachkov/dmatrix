@@ -1,12 +1,12 @@
 {
-  "name": "matrix",
+  "name": "dmatrix",
   "version": "0.1.0",
   "description": "The Matrix code rain animation with custom text in the middle",
-  "homepage": "https://github.com/kplachkov/matrix",
-  "bugs": "https://github.com/kplachkov/matrix/issues",
+  "homepage": "https://github.com/kplachkov/dmatrix",
+  "bugs": "https://github.com/kplachkov/dmatrix/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kplachkov/matrix.git"
+    "url": "git://github.com/kplachkov/dmatrix.git"
   },
   "devDependencies": {
     "http-server": "^0.12.3"
