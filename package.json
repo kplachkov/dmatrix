@@ -1,0 +1,27 @@
+{
+  "name": "matrix",
+  "version": "0.1.0",
+  "description": "The Matrix code rain animation with custom text in the middle",
+  "homepage": "https://github.com/kplachkov/matrix",
+  "bugs": "https://github.com/kplachkov/matrix/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kplachkov/matrix.git"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  },
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [
+    "matrix",
+    "code",
+    "rain",
+    "animation",
+    "hack",
+    "text"
+  ],
+  "author": "Kostadin Plachkov",
+  "license": "Apache-2.0"
+}
