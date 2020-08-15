@@ -1,7 +1,7 @@
 {
   "name": "dmatrix",
-  "version": "0.1.0",
-  "description": "The Matrix code rain animation with custom text in the middle",
+  "version": "0.2.0",
+  "description": "The Matrix code rain animation with custom text in the middle.",
   "homepage": "https://github.com/kplachkov/dmatrix",
   "bugs": "https://github.com/kplachkov/dmatrix/issues",
   "repository": {
@@ -16,10 +16,13 @@
   },
   "keywords": [
     "matrix",
+    "dmatrix",
     "code",
     "rain",
     "animation",
+    "effect",
     "hack",
+    "logo",
     "text"
   ],
   "author": "Kostadin Plachkov",
