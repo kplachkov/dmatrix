@@ -1,4 +1,4 @@
-![dmatrix](https://github.com/kplachkov/dmatrix/blob/master/img/matrix.gif?raw=true)
+![dmatrix](https://github.com/kplachkov/dmatrix/blob/master/img/dmatrix.gif?raw=true)
 
 #### __"The Matrix"__ code rain animation with custom text in the middle. 
 

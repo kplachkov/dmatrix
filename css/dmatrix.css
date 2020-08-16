@@ -30,9 +30,9 @@ canvas {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #00B400;
+    color: #00B700;
     z-index: 1;
-    text-shadow: 3px 3px 3px #00FF00, 0 -2px 0 #00FF00, 0 4px 0 #00FF00, -2px 0 0 #00FF00;
+    text-shadow: -2px 2px 3px #22FF22, 2px -2px 3px #22FF22, 2px 2px 3px #22FF22, -2px -2px 3px #22FF22;
     box-sizing: border-box;
     font-weight: 700;
     font-family: monospace;
