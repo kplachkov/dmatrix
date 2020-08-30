@@ -1,6 +1,6 @@
 {
   "name": "dmatrix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Matrix code rain animation with custom text in the middle.",
   "homepage": "https://github.com/kplachkov/dmatrix",
   "bugs": "https://github.com/kplachkov/dmatrix/issues",
@@ -12,7 +12,7 @@
     "http-server": "^0.12.3"
   },
   "scripts": {
-    "start": "http-server"
+    "start": "http-server -o -s"
   },
   "keywords": [
     "matrix",

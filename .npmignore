@@ -1,5 +1,7 @@
 .idea
 .git
 node_modules
-img
 *.tgz
+package-lock.json
+yarn.lock
+img
